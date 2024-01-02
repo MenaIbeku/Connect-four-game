@@ -1,0 +1,1 @@
+Utilizing Python's functionalities, I crafted an interactive Connect Four game that enables players to engage in strategic gameplay, employing algorithms to validate moves and determine the winner. It recreates the gameplay mechanics, offering an entertaining and challenging experience reminiscent of the original board game.
